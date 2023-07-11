@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "commandline",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maniOrbs/CommandLine",
+      "state" : {
+        "revision" : "bb9d550d299f5fa0f36d3739b95b339a1b8a912d",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "pathkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maniOrbs/PathKit",
+      "state" : {
+        "revision" : "44ce5b1600aea4360120a4e609deaa74c3ffea7f",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maniOrbs/Rainbow",
+      "state" : {
+        "revision" : "f98bca8db8b614816595fc467b1a0afe3ed11377",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "spectre",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maniOrbs/Spectre",
+      "state" : {
+        "revision" : "8e3710b9162b728ccccb51cfdaf100cd161baa72",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
